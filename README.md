@@ -1,4 +1,4 @@
-# clonotypes_python
+# clonotypes_python (12/2017)
 
 Εxport and Locate Public Clonotypes (Python- Pandas library) 
 
